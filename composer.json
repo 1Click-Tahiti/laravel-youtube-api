@@ -1,0 +1,14 @@
+{
+    "name": "oneclick/youtube",
+    "description": "Laravel PHP Facade/Wrapper for the Youtube Data API v3",
+    "require": {
+        "php": "7.0"
+    },
+    "authors": [
+        {
+            "name": "Teremu MARO - 1click",
+            "email": "contact@1click.pf"
+        }
+    ],
+    "minimum-stability": "dev"
+}
